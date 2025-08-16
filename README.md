@@ -18,5 +18,5 @@
 
 
 
-
+پنل حذف پس زمینه با هوش مصنوعی: https://mram-dev.github.io/AIBackgroundRemover/
 برای اطلاعات بیشتر در کانال تلگرامی ما عضو بشید : https://t.me/amirb_wd
